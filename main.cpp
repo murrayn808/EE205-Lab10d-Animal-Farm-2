@@ -13,6 +13,7 @@
 #include "reportCats.h"
 #include "deleteCats.h"
 #include "config.h"
+#include "addCats.h"
 #define ILLEGAL_NAME "12345678901234567890123456789012345678901234567890"
 #define MAX_NAME1 "1234567890123456789012345678901234567890123456789"
 

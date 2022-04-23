@@ -11,6 +11,8 @@
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-default" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-wiliki" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-wiliki" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-wiliki" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-wiliki" />
           </excludedPaths>
         </serverdata>
       </paths>
