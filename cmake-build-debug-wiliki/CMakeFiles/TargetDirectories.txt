@@ -1,0 +1,3 @@
+/tmp/tmp.mLuHq0yr7Y/cmake-build-debug-wiliki/CMakeFiles/ee205-lab10d-animal-farm2.dir
+/tmp/tmp.mLuHq0yr7Y/cmake-build-debug-wiliki/CMakeFiles/edit_cache.dir
+/tmp/tmp.mLuHq0yr7Y/cmake-build-debug-wiliki/CMakeFiles/rebuild_cache.dir
